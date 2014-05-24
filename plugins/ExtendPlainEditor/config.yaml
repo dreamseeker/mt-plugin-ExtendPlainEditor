@@ -1,0 +1,13 @@
+id: ExtendPlainEditor
+name: ExtendPlainEditor
+version: 1.00
+author_link: http://d-s-b.jp/
+author_name: TORU KOKUBUN
+description: <MT_TRANS phrase="Extend Plain Editor.">
+l10n_lexicon:
+    ja:
+        Extend Default Editor.: "プレーンエディタの機能拡張セット"
+
+editors:
+    tinymce:
+        extension: extension.tmpl

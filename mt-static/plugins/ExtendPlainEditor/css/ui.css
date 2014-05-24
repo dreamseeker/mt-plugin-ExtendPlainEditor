@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+a[class*="mce_ext_btn_"] .mceVoiceLabel {
+	min-width: 22px;
+	padding: 0 3px;
+	line-height: 22px;
+	font-family: monospace;
+	text-align: center;
+}
+
+a[class*="mce_ext_btn_"],
+a[class*="mce_ext_btn_"] .mceVoiceLabel {
+	display: block !important;
+}
