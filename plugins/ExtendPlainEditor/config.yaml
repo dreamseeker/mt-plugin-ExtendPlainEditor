@@ -6,7 +6,7 @@ author_name: TORU KOKUBUN
 description: <MT_TRANS phrase="Extend Plain Editor.">
 l10n_lexicon:
     ja:
-        Extend Default Editor.: "プレーンエディタの機能拡張セット"
+        Extend Plain Editor.: "プレーンエディタの機能拡張セット"
 
 editors:
     tinymce:
